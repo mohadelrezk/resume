@@ -1,8 +1,6 @@
 ## Mohamed Adel Rezk -resume
 
-
----
-[Resume](Rezk-resume.pdf)
+###[Resume](Rezk-resume.pdf)
 
 Publications
 ----
@@ -33,3 +31,13 @@ Publications
 [6][“Mining Governmental Collaboration through Semantic Profiling of Open Data Catalogues and Publishers”](/publications/Mining%20Governmental%20Collaboration%20through%20Semantic%20Profiling%20of%20Open%20Data%20Catalogues%20and%20Publishers.pdf)
 
 >Due to the increasing adoption of open data among governments worldwide especially in the European Union area, a deeper analysis of the newly published data is becoming a mandate. Apart from analyzing the published dataset itself we aimed on analyzing published dataset catalogues. A dataset catalogue or a dataset metadata contains features that describe what the data is about in a textual representation. So, we first acquire data from open data portals, choose descriptive dataset catalogue features, and then construct an aggregated textual representation of the datasets. Afterwards we enrich those textual representations using Natural Language Processing (NLP) methods to create a new comparable data feature “Named Entities”. By mining the new data feature we are able to produce datasets and publishers relatedness network. Those networks are used to point similarities between the published data across multiple open data portals. Pointing all possible collaborations for integrating and standardizing data features and types would increase the value of da1ta and ease its analysis process.
+
+Thesis
+----
+
+[BSc. Thesis]
+[MSc. Thesis](/publications/MSc_Dissertation_MohamedAdel_Final_August2017.pdf)
+
+
+----
+Last update August 2017
