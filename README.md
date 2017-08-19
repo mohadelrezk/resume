@@ -1,6 +1,6 @@
 ## Mohamed Adel Rezk -resume
 
-###[Resume](Rezk-resume.pdf)
+[Resume](Rezk-resume.pdf)
 
 Publications
 ----
@@ -35,7 +35,8 @@ Publications
 Thesis
 ----
 
-[BSc. Thesis]
+[BSc. Thesis]()
+
 [MSc. Thesis](/publications/MSc_Dissertation_MohamedAdel_Final_August2017.pdf)
 
 
