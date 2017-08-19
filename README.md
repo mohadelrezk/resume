@@ -2,7 +2,7 @@
 
 Resume
 ---
-[link]: Rezk-resume.pdf
+[link] (Rezk-resume.pdf)
 
 Publications
 ----
