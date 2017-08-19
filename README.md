@@ -35,10 +35,9 @@ Publications
 Thesis
 ----
 
-[BSc. Thesis]()
-
 [MSc. Thesis](/publications/MSc_Dissertation_MohamedAdel_Final_August2017.pdf)
 
+[BSc. Thesis]()
 
 ----
 Last update August 2017
