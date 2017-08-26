@@ -39,5 +39,9 @@ Thesis
 
 [BSc. Thesis](/publications/Graduation_Project_Book_May2010.pdf)
 
+Slides
+---
+[Slide Share](https://www.slideshare.net/MohamedAdelRezk)
+
 ----
 Last update August 2017
