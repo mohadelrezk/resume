@@ -7,8 +7,11 @@ Publications
 
 [1] [“A Government Decision Analytics Framework Based on Citizen Opinion”](http://dl.acm.org/citation.cfm?id=2910093&CFID=799242938&CFTOKEN=37955034)
 
+<p align="justify">
+
 > This ongoing research aims to develop a Government Decision Support Framework that employs citizen opinions and sentiments to predict the level of acceptance of newly proposed policies. The system relies on a knowledge base of citizen opinions and an Ontological Model comprising aspects and related terms of different policy domains as an input and a Bayesian predictive procedure. The work proceeds in four basic steps. The first step involves developing domain models comprising aspects for different policy domains in government and automatically acquiring semantically related terms for these aspects from associated policy documents. The second step involves computing citizen sentiments and opinions for the different policy aspects. The third involves updating the ontology with the computed sentiments and the last step involves employing a Bayesian Predictive Process to predict likely citizen opinion for a new proposal (policy) based on information available in the ontology. We provide some background to this work, describe our approach in some detail and discuss the progress made.
 
+</p>
 
 
 [2] [“A Propsed Government Decision Support System Based on Citizen Interactions over Social Networks”](/publications/A%20Propsed%20Government%20Decision%20Support%20System%20Based%20on%20Citizen%20Interactions%20over%20Social%20Networks.pdf)
@@ -69,6 +72,8 @@ Profiles
 [NewsLab@NUIG](http://newslab.insight-centre.org/team/mohamed/)
 
 [eGov@NUIG]()
+
+[Research Gate](https://www.researchgate.net/profile/Mohamed_Rezk5)
 
 ----
 Last update August 2017
