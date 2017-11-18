@@ -43,5 +43,23 @@ Slides
 ---
 [Slide Share](https://www.slideshare.net/MohamedAdelRezk)
 
+Profiles
+---
+[Google Scholar](https://scholar.google.com/citations?user=cpBkEfsAAAAJ)
+
+[dblp](http://dblp.uni-trier.de/pers/hd/r/Rezk:Mohamed_Adel)
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-adel-rezk-544a5788)
+
+[Facebook](https://www.facebook.com/mohamed.adel.rizk)
+
+[Twitter](https://twitter.com/MohamedAdelRezk)
+
+[Insight@NUIG](https://www.insight-centre.org/users/mohamed-adel)
+
+[NewsLab@NUIG](http://newslab.insight-centre.org/team/mohamed/)
+
+[eGov@NUIG]()
+
 ----
 Last update August 2017
