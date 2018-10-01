@@ -43,6 +43,10 @@ Publications
 
 >Producing new generation of digital public services from open data is of major interest to policy makers, practitioners and academia in the digital government community. Recent efforts in the area of Linked Statistical Data suggest that the associated multidimensional data cubes are excellent resources that could underpin data-driven digital public services. We describe in this paper a set of tools and approach to exploiting linked statistical data produced from the integration of streams of open marine datasets for developing digital services to support Marine Rescue Operations. We also highlight some of the benefits, the opportunities for enriching the services through co-creation activities and challenges for scaling and sustaining the initiative.
 
+Posters
+----
+[ISC18]
+[Insight Smart Enterprise Event]
 
 Thesis
 ----
