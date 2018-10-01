@@ -46,6 +46,7 @@ Publications
 Posters
 ----
 [ISC18]
+
 [Insight Smart Enterprise Event]
 
 Thesis
