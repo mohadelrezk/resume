@@ -1,55 +1,116 @@
 {
   "basics": {
     "name": "Mohamed Adel Rezk",
-    "label": "M.Sc.",
+    "label": "Senior Research Assistant",
     "picture": "",
     "email": "moh.adelrezk@gmail.com",
     "phone": "(089) 9676871",
-    "website": "https://richardhendricks.com",
-    "summary": "etc",
+    "website": "github.com/mohadelrezk",
+    "summary": "Senior Research Assistant, Insight Centre for Data Analytics, NUIG. B.Comm and M.Sc. in Management Information Systems.",
     "location": {
       "address": "6 Uillinn, Moycullen",
-      "postalCode": "CA 94115",
+      "postalCode": "H91 K727",
       "city": "Galway",
-      "Country": "Ireland",
-"countryCode": "IE"
+      "countryCode": "IE",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "GitHub",
+        "username": "mohadelrezk",
+        "url": "github.com/mohadelrezk"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "linkedIn",
+        "username": "mohamed-adel-rezk",
+        "url": "linkedin.com/in/mohamed-adel-rezk-544a5788"
+      },
+      {
+        "network": "Insight Centre for Data Analytics",
+        "username": "mohamed-adel",
+        "url": "insight-centre.org/users/mohamed-adel"
+      },
+      {
+        "network": "eGov Centre, NUIG",
+        "username": "mohadelrezk",
+        "url": "egovcentre.org/team/"
+      },
+      {
+        "network": "News Lab, NUIG",
+        "username": "mohadelrezk",
+        "url": "newslab.insight-centre.org/team/mohamed/"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Insight Centre for Data Analytics",
+      "position": "Senior Research Assistant",
+      "website": "insight-centre.org",
+      "startDate": "2017-01-01",
+      "endDate": "Current",
+      "summary": "The Insight Centre for Data Analytics is one of Europe’s largest data analytics research organisations, with 400+ researchers, more than 80 industry partners and over €100 million of funding. Insight Centre currently conducting research projects whose outcomes are expected to benefit the following fields:  Chronic Disease Management & Rehabilitation, Novel Personal Sensing, Connecting Health & Life Sciences, Smart Enterprise, The Future of News and Media, The Analytical Society, Discovery Analytics.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Building a model able to help in automation of data science.",
+        "Constructing a model for the detection of data science tasks.",
+        "Data science tasks-data recommend-er system. "
       ]
+    },
+    {
+      "company": "eGov Unit  - Insight Centre for Data Analytics",
+      "position": "Senior Research Assistant",
+      "website": "egovcentre.org",
+      "startDate": "2015-09-30",
+      "endDate": "Current",
+      "summary": "Harness Semantic Web, Linked Data and Advanced Data Analytics in transforming governments into a Single Virtual Knowledge Enterprise.",
+      "highlights": [
+        "Anomaly detection service for cKAN open data platform - as a part of the routetopa.eu project. ",
+        "Traffic data pre-processing  for RDF transformation - as a p art of the yourdatastories.eu project.",
+        "Linked open statistical data building, publishing, and visualizing - as part of both opengovintelligence.eu and losd-data.staging.derilinx.com projects.",
+        "Core Public Policy Vocabulary - as part of my M.Sc github.com/mohadelrezk/cppv .",
+        "Collaboration analysis service for cKAN platforms - - as part of my M.Sc github.com/mohadelrezk/open-gov-collaboration-analysis.",
+        ""
+      ]
+    },
+    {
+      "company": "NewsLab -  Insight Centre for Data Analytics",
+      "position": "Research Assistant",
+      "website": "newslab.insight-centre.org",
+      "startDate": "2015-01-12",
+      "endDate": "2015-09-30",
+      "summary": "Develop new tools and technologies that support and foster Digital Humanities and journalism – in particular Data Journalism and Social Journalism; Serve as an international resource in the field of social semantic journalism; Coordinate community-based test beds in Europe internationally.",
+      "highlights": [
+        "Building semantic social repository for Ireland  as part of the dri.ie project.",
+        "Building tweet popularity prediction model - as part of the newsWire2.0 project."
+      ]
+    },
+    {
+      "company": "Computers and Info. Sys. Dept., Alex. Uni.",
+      "position": "Teaching Assistant",
+      "website": "comm.alexu.edu.eg",
+      "startDate": "11-05-01",
+      "endDate": "15-01-01",
+      "summary": "Teaching and Research Assistant. Researching in the Seman.c Web field, teaching Labs of Informa.on Systems courses and supervising students’ gradua.on projects(i.e. Systems Analysis and Design, OOP, ECommerce, DB Design and Ar.ficial Intelligence)",
+      "highlights": []
+    },
+    {
+      "company": " ICTP project  - Alexandria University",
+      "position": "Oracle Applications Support Engineer",
+      "website": "",
+      "startDate": "2010-11-01",
+      "endDate": "2011-05-",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
+      "organization": "Bibliotheca Alexandrina",
+      "position": "ICT applications volunteer ",
+      "website": "",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "summary": "Planetarium Science Center",
       "highlights": [
         "Awarded 'Teacher of the Month'"
       ]
