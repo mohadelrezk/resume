@@ -1,6 +1,6 @@
 ## Mohamed Adel Rezk -resume
 
-[Resume](Mohamed-Adel-Rezk-resume.pdf)
+[Resume](Mohamedadelrezk_resume.pdf)
 
 
 Publications
